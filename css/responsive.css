@@ -1,0 +1,344 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+ /*Header Part*/
+    .main_menu ul li a {
+    padding: 30px 10px;
+}
+    /*About Part*/
+.social-icon ul li a {
+    width: 45px;
+    height: 45px;
+}    
+.about_info h4 {
+    font-size: 25px;
+}    
+/*Footer area*/    
+.footer_content p {
+    font-size: 15px;
+    font-weight: 400;
+}    
+ 
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+      /*Header Part*/
+    
+    
+    
+    
+.header_area {
+    top: 50px;
+}
+ .mean-container a.meanmenu-reveal span {
+    background: #f1c40f none repeat scroll 0 0;
+} 
+.mean-container a.meanmenu-reveal {
+    border: 1px solid #f1c40f;
+    color: #f1c40f;
+    
+}
+.header_area >.header-sticky.sticky {
+    top: 50px;
+}
+.logo img {
+margin-top: -30px;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /*Banner Part*/
+.banner_content h1 {
+    font-size: 35px;
+    margin-bottom: 25px;
+    margin-top: 200px
+}    
+.banner_content p {
+    font-size: 22px;
+    margin-bottom: 30px;
+}    
+.btn-one {
+    margin-bottom: 200px;    
+    }
+        
+.btn {
+    margin-bottom: 200px;    
+    } 
+     /*About Part*/
+.about_area {
+    padding: 60px 0;
+}
+.section_title {
+    margin-bottom: 60px;
+}
+.section_title h1 {
+    font-size: 30px;
+}
+.about_thumbnail img {
+    width: 50%;
+    margin-left: 165px;
+    margin-bottom: 50px;
+}
+.about_info h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}    
+.about_info h5 {
+    font-size: 16px;
+}    
+.social-icon ul li a {
+    font-size: 25px;
+    width: 40px;
+    height: 40px;
+}    
+     /*Education Part*/
+    
+.section_title1 h1 {
+    font-size: 30px;
+}    
+.education_area {
+    padding: 60px 0;
+}    
+.mid_line i::after {
+    height: 223px;
+}    
+.content_edu1 h3 {
+    font-size: 20px;
+}    
+.content_edu1 span {
+    font-size: 17px;
+}    
+.content_edu2 h3 {
+    font-size: 20px;
+}    
+.content_edu2 span {
+    font-size: 17px;
+} 
+      /*Skill Part*/
+.skill_are {
+    padding: 60px 0;
+}   
+    /* Exprericence*/
+.expericences_area {
+    padding: 60px 0;
+}    
+.protfolio_area {
+    padding: 60px 0;
+}    
+     /*Contact Part*/    
+    
+ .contact-area {
+    padding: 60px 0;
+}   
+.text-center {
+    margin-bottom: 30px;
+}    
+    /*Footer Part*/
+.footer_area {
+  padding: 35px 0;
+}
+.contnet_bot p {
+    font-size: 15px;
+}
+.footer_bottome {
+    padding: 35px 0;
+}
+    
+    
+/*============ Services Header Code CSS Part Start =============== */
+    /*Services Part*/
+.services_area {
+    padding: 65px 0;
+}    
+.content_ser h3 {
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}    
+/*Price Part*/    
+ .price_area {
+    padding: 60px 0;
+}
+.btn-three {
+    font-size: 13px;
+    margin-left: 0px; 
+    margin-right: 0px;
+
+}    
+    
+    
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    
+   /*Header Part*/
+    .mean-container a.meanmenu-reveal span {
+    background: #f1c40f none repeat scroll 0 0;
+        background: #f1c40f;
+} 
+.mean-container a.meanmenu-reveal {
+    border: 1px solid #f1c40f;
+    color: #f1c40f;
+}
+    
+    
+    
+    
+    
+    /*Banner Part*/
+.banner_content h1 {
+    font-size: 17px;
+    margin-bottom: 15px;
+    margin-top: 140px
+}    
+.banner_content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}   
+.btn-one {
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 2;
+    margin-right: 2;
+    padding: 10px 10px;
+    margin-bottom: 140px;    
+    }
+        
+.btn {   
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 2;
+    margin-right: 2;
+    padding: 10px 10px;
+    margin-bottom: 140px; 
+}    
+      /*About Part*/
+ .about_area {
+    padding: 40px 0;
+}   
+.section_title h1 {
+    font-size: 28px;
+    font-weight: 400;
+    display: inline;
+    padding: 3px 20px;
+}    
+.section_title {
+    margin-bottom: 40px;
+}
+.about_thumbnail img {
+    margin-bottom: 40px;
+}
+.about_info h4 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}    
+.about_info p {
+    margin-bottom: 0px;
+}    
+.social-icon ul li a {
+    font-size: 20px;
+    width: 35px;
+    height: 35px;
+}    
+           /*Education Part*/    
+    
+.section_title1 h1 {
+    font-size: 28px;
+    font-weight: 400;
+    display: inline;
+    padding: 3px 13px;
+}    
+ .education_area {
+    padding: 40px 0;
+}   
+.section_title1 {
+    margin-bottom: 40px;
+}  
+.content_edu1 h3 {
+    font-size: 19px;
+    font-weight: 400;
+}    
+.content_edu1 span {
+    font-size: 17px;
+    font-weight: 500;
+}  
+.content_edu2 h3 {
+    font-size: 19px;
+    font-weight: 400;
+}    
+.content_edu2 span {
+    font-size: 17px;
+    font-weight: 500;
+}    
+.mid_line i::after {
+    height: 0;
+}    
+    /*Skill Part*/ 
+.skill_are {
+    padding: 40px 0;
+}
+.skillbar-title {
+    width: 117px;
+    font-weight: 400;
+    font-size: 14px;
+    background: rgba(0, 0, 0, 0.1);
+    padding: 0px 2px;
+} 
+    /*Exprence Part*/
+.expericences_area {
+    padding: 40px 0;
+}    
+    
+     /*Protfolio Part*/
+    
+ .protfolio_area {
+    padding: 40px 0;
+}
+    /*Contact Part*/
+    
+  .contact-area {
+    padding: 60px 0;
+}  
+     /*Footer Part*/
+.footer_area {
+    padding: 25px 0;
+}    
+.footer_bottome {
+    padding: 25px 0;
+}    
+/*============ Services Header Code CSS Part Start =============== */    
+ /*Service part*/
+ .services_area {
+    padding: 40px 0;
+}   
+/* Services*/    
+ .price_area {
+    padding: 40px 0;
+}   
+    
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
